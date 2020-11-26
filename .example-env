@@ -1,0 +1,11 @@
+# enviroment
+NODE_ENV=
+
+# host
+URL=
+PORT=
+
+#database
+DB_HOST=
+DB_PORT=
+DB_NAME=
